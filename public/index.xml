@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Principal Group</title>
-    <link>https://principalgroup.org/index.xml</link>
+    <link>http://bnjmn.info/principalgroup/index.xml</link>
     <description>Recent content on Principal Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://principalgroup.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://bnjmn.info/principalgroup/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
