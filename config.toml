@@ -2,7 +2,7 @@ baseurl = "http://bnjmn.info/principalgroup/"
 languageCode = "en-us"
 title = "Principal Group"
 theme = "creative"
-googleAnalytics = ""
+googleAnalytics = "UA-89385252-1"
 
 [params]
 
