@@ -32,10 +32,10 @@ googleAnalytics = ""
 		brand = "PrincipalGroup"
 
 		[params.navigation.links]
-			about     = "About"
+			about     = "About Us"
 			services  = "Services"
 			#portfolio = "Portfolio"
-			contact   = "Contact"
+			contact   = "Contact Us"
 
 
 	# Hero section
