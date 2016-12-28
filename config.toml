@@ -41,15 +41,15 @@ googleAnalytics = ""
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "For Better Living"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
+		slogan     = "EB-5 Regional Center"
+		subtitle   = "Connecting Companies to Investors"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "We are a reputable Seattle real estate agency with licensed and experienced brokers who know the Seattle real estate market extremely well. PrincipalGroup specializes in the purchase, sale and rental of Seattle residential properties."
+		headline    = "Experienced, trusted, and lean"
+		description = "We have helped hundreds of investors through the EB-5 process and are reinventing the EB-5 process. We can help if you are just getting started or if you want the full investment services."
 		buttonText  = "Get started!"
 
 
