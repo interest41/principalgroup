@@ -32,23 +32,23 @@ googleAnalytics = "UA-89385252-1"
 		brand = "PrincipalGroup"
 
 		[params.navigation.links]
-			about     = "About Us"
+			about     = "Abou"
 			services  = "Services"
 			#portfolio = "Portfolio"
-			contact   = "Contact Us"
+			contact   = "Contact"
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "EB-5 Regional Center"
-		subtitle   = "Connecting Companies to Investors"
+		slogan     = "EB-5 Investment Services"
+		subtitle   = "Changing Communities"
 		buttonText = "Find out more"
 
 
 	# About section
 	[params.about]
-		headline    = "Experienced, trusted, and lean"
+		headline    = "Transparent and Efficient"
 		description = "We have helped hundreds of investors through the EB-5 process and are reinventing the EB-5 process. We can help if you are just getting started or if you want the full investment services."
 		buttonText  = "Get started!"
 
@@ -58,24 +58,24 @@ googleAnalytics = "UA-89385252-1"
 		headline = "At your service"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Your Dream Home"
-            description = "We want to help you find your dream home! In addition, we have a wide range of real estate properties for sale or for rent in the Seattle area."
-
+            icon = "fa-usd"
+            title = "Fund your project"
+            description = "We fund your project"
+	  
         [[params.services.list]]
 			icon = "fa-paper-plane"
 			title = "Show Off Your Home"
 			description = "You can use this theme as is, or you can make changes!"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-gavel"
+            title = "Project Submission"
+            description = "Flat-fee project submission that includes immigration, security, economics report and business plan"
 
         [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-rocket"
+            title = "Start Your Own Regional Center" 
+            description = "We help you do it yourself"
 
 
     # Portfolio modals
@@ -97,9 +97,9 @@ googleAnalytics = "UA-89385252-1"
 	[params.contact]
 		headline = "Let's Get In Touch!"
 		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
+		phone = "786-760-0433"
 		email = "hello@principalgroup.org"
-
+		address = "842 Park Ave., Rm 5, Baltimore MD"
 	# Google Maps section
 	# [params.location]
 	# 	latitude  = "34.007850"
