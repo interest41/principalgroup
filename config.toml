@@ -76,7 +76,7 @@ googleAnalytics = "UA-89385252-1"
             icon = "fa-rocket"
             title = "Start Your Own Regional Center" 
             description = "We help you do it yourself"
-
+	    link = "//github.com/bnjmn/principalgroup.git"
 
     # Portfolio modals
 	[params.portfolio.modal]
@@ -96,7 +96,7 @@ googleAnalytics = "UA-89385252-1"
 	# Contact section
 	[params.contact]
 		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
+		description = "Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!"
 		phone = "786-760-0433"
 		email = "hello@principalgroup.org"
 		address = "842 Park Ave., Rm 5, Baltimore MD"
