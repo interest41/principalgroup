@@ -64,8 +64,8 @@ googleAnalytics = "UA-89385252-1"
 	  
         [[params.services.list]]
 			icon = "fa-paper-plane"
-			title = "Show Off Your Home"
-			description = "You can use this theme as is, or you can make changes!"
+			title = "EB-5 Solutions"
+			description = "We provide customized marketing and software solutions for yoru project"
 
 		[[params.services.list]]
             icon = "fa-gavel"
