@@ -63,7 +63,7 @@ googleAnalytics = "UA-89385252-1"
             description = "We fund your project"
 	  
         [[params.services.list]]
-			icon = "fa-paper-plane"
+			icon = "fa-briefcase"
 			title = "Show Off Your Home"
 			description = "You can use this theme as is, or you can make changes!"
 
