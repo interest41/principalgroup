@@ -1,0 +1,7 @@
+baseurl = "http://bnjmn.info/principalgroup/getstarted/"
+languageCode = "en-us"
+title = "EB-5 Primer"
+theme = "creative"
+[params]
+    headline    = "Everything you need to know"
+		text = "In short, the EB-5 program allows companies to raise $500,000 per investor so long as the company produces evidence that the $500,000 created ten jobs. This sentence has a lot to unpack. First, the $500,000 is standard. You may have heard that there is a $1,000,000 requirement and $500,000 only applies to low-income areas or rural areas, but while this may be technically accurate it is usually very easy to avoid this problem. Second, companies or projects usually satisfy the jobs requirement by obtaining a jobs report and working with a regional center. It is important to note that anyone looking to take advantage of the EB-5 program must work with a regional center if they intend to take advantage of the extra "induced and indirect" job creation offered by a jobs report. Third, EB-5 investor capital most often occupies a silent second lien position. EB-5 captial can also take the form of equity or senior debt, depending on how the project wants to be structured."
